@@ -3,12 +3,13 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "your-api-key",
-  authDomain: "your-auth-domain",
-  projectId: "your-project-id",
-  storageBucket: "your-storage-bucket",
-  messagingSenderId: "your-messaging-sender-id",
-  appId: "your-app-id"
+  apiKey: "AIzaSyB9bmv7FBjWJ9MLgHCAXkLUiAStb89C2as",
+  authDomain: "desifyar.firebaseapp.com",
+  projectId: "desifyar",
+  storageBucket: "desifyar.firebasestorage.app",
+  messagingSenderId: "1006637516972",
+  appId: "1:1006637516972:web:7a868d209cb6b868f0f709",
+  measurementId: "G-BLJPK2WJB6"
 };
 
 // Initialize Firebase
